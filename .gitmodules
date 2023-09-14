@@ -1,0 +1,3 @@
+[submodule "esp32s3-linuxbuild"]
+	path = esp32s3-linuxbuild
+	url = https://github.com/zap8600/esp32s3-linuxbuild.git
