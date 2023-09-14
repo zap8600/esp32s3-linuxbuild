@@ -1,2 +1,2 @@
 # esp32s3-linuxbuild
-Repo for building Linux for the ESP32-S3
+Repo for building tools for Linux on the ESP32-S3.
